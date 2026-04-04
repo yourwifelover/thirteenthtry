@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\bin\Debug\net8.0\thirteenthtry.exe
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\bin\Debug\net8.0\thirteenthtry.deps.json
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\bin\Debug\net8.0\thirteenthtry.runtimeconfig.json
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\bin\Debug\net8.0\thirteenthtry.dll
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\bin\Debug\net8.0\thirteenthtry.pdb
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\obj\Debug\net8.0\thirteenthtry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\obj\Debug\net8.0\thirteenthtry.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\obj\Debug\net8.0\thirteenthtry.AssemblyInfo.cs
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\obj\Debug\net8.0\thirteenthtry.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\obj\Debug\net8.0\thirteenthtry.sourcelink.json
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\obj\Debug\net8.0\thirteenthtry.dll
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\obj\Debug\net8.0\refint\thirteenthtry.dll
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\obj\Debug\net8.0\thirteenthtry.pdb
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\obj\Debug\net8.0\thirteenthtry.genruntimeconfig.cache
+C:\Users\Asus\source\repos\thirteenthtry\thirteenthtry\obj\Debug\net8.0\ref\thirteenthtry.dll
